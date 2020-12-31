@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-internship-languages/static/css/main.52d9f873.chunk.css",
+    "main.js": "/react-internship-languages/static/js/main.aff91c68.chunk.js",
+    "main.js.map": "/react-internship-languages/static/js/main.aff91c68.chunk.js.map",
+    "runtime-main.js": "/react-internship-languages/static/js/runtime-main.916064ea.js",
+    "runtime-main.js.map": "/react-internship-languages/static/js/runtime-main.916064ea.js.map",
+    "static/js/2.a1f05f1c.chunk.js": "/react-internship-languages/static/js/2.a1f05f1c.chunk.js",
+    "static/js/2.a1f05f1c.chunk.js.map": "/react-internship-languages/static/js/2.a1f05f1c.chunk.js.map",
+    "static/js/3.702e5aa9.chunk.js": "/react-internship-languages/static/js/3.702e5aa9.chunk.js",
+    "static/js/3.702e5aa9.chunk.js.map": "/react-internship-languages/static/js/3.702e5aa9.chunk.js.map",
+    "index.html": "/react-internship-languages/index.html",
+    "static/css/main.52d9f873.chunk.css.map": "/react-internship-languages/static/css/main.52d9f873.chunk.css.map",
+    "static/js/2.a1f05f1c.chunk.js.LICENSE.txt": "/react-internship-languages/static/js/2.a1f05f1c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-internship-languages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.916064ea.js",
+    "static/js/2.a1f05f1c.chunk.js",
+    "static/css/main.52d9f873.chunk.css",
+    "static/js/main.aff91c68.chunk.js"
+  ]
+}
